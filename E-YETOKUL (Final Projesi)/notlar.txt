@@ -1,0 +1,7 @@
+
+
+{'Ahmet Ekici': {'vize': 85, 'final': 86}}
+{'Ahmet Ekici': {'vize': 85, 'final': 86}}
+{'Mertcan Kırcı': {'vize': 85, 'final': 75}}
+{'Mücahit Liman': {'vize': 45, 'final': 78}}
+{'Ahmet Ekici': {'vize': 85, 'final': 86}}
